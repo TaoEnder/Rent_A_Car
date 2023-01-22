@@ -7,6 +7,7 @@ Flutter dili ile Firebase veritabanı kullanarak araba kiralama
 Bu sebeple sırasıyla aşağıdaki adımları gerçekleştirmeniz gerekmektedir.
  1. Kendi **Flutter Projenizi** oluşturun.
  2. **/lib** dizini altındaki dosyaları kendi projenize aynı konuma taşıyın.
- 3. **pubspec.yaml** dosyasında **dependencies** altında bulunan paketleri aynı şekilde kopyalayıp yapıştırın. _(cupertino_icons dan iki tane olmamasına dikkat edin.)_
- 4. **flutter pub get** komutu ile paketleri yükleyin.
- 
+ 3. **/Firebase'i** kurmalısınız.
+ 4.For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
